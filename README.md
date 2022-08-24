@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mpdanie
 - 👀 I’m interested in website building and a WHOLE TON OF FUN BOOKMARKLETS
 - 🌱 I’m currently learning css, html, and javascript
-- 📫 How to reach me.. please email zonda0629@outlook.com
+- 📫 How to reach me.. please email zonda0629@outlook.com or zonda0629@gmail.com
